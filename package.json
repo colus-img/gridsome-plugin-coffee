@@ -7,17 +7,17 @@
 	"homepage": "#readme",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/colus-img/gridsome-plugin-coffee"
 	},
 	"bugs": {
-		"url": "/issues"
+		"url": "https://github.com/colus-img/gridsome-plugin-coffee/issues"
 	},
 	"files": [
 		"index.js"
 	],
 	"author": {
-		"email": "",
-		"name": ""
+		"email": "colus-img@users.noreply.github.com",
+		"name": "colus-img"
 	},
 	"engines": {
 		"node": ">=10.15.0"
