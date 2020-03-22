@@ -5,7 +5,7 @@ coffeescript plugin for Gridsome
 
 ### Install
 
-* `npm install -D coffeescript coffee-loader gridsome-plugin-coffee`
+* `npm i -D coffeescript coffee-loader colus-img/gridsome-plugin-coffee`
 
 ### Usage
 
