@@ -1,0 +1,38 @@
+{
+	"name": "gridsome-plugin-coffeescript",
+	"description": "Coffeescript plugin for Gridsome",
+	"version": "0.1.0",
+	"license": "MIT",
+	"main": "index.js",
+	"homepage": "#readme",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"bugs": {
+		"url": "/issues"
+	},
+	"files": [
+		"index.js"
+	],
+	"author": {
+		"email": "",
+		"name": ""
+	},
+	"engines": {
+		"node": ">=10.15.0"
+	},
+	"keywords": [
+		"gridsome",
+		"gridsome-plugin",
+		"gridsome-coffeescript",
+		"coffeescript"
+	],
+	"peerDependencies": {
+		"gridsome": "*",
+		"coffeescript": "*",
+		"coffee-loader": "*"
+	},
+	"devDependencies": {
+	}
+}
